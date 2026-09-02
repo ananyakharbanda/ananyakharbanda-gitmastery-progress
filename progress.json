@@ -377,5 +377,14 @@
       "Great work with undoing the merges! Try listing the directory to see what has changed."
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ff-undo",
+    "started_at": 1788364941.736011,
+    "completed_at": 1788364945.170682,
+    "comments": [
+      "The merge has not been undone properly."
+    ],
+    "status": "Incomplete"
   }
 ]
